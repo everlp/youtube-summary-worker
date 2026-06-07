@@ -11,8 +11,8 @@
 
 ## 部署的公开访问网址与 GitHub 地址
 
-*   **部署网址**: [待部署时生成 - e.g., https://ai-youtube-summarizer.your-username.workers.dev]
-*   **GitHub 仓库**: [用户自行上传后的地址]
+*   **部署网址**: https://ai-youtube-summarizer.pu-lihelloworld.workers.dev/
+*   **GitHub 仓库**: https://github.com/everlp/youtube-summary-worker
 
 ## 测试参考信息
 
